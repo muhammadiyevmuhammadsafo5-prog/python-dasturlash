@@ -1,5 +1,3 @@
-
-
 # TypeError - tiplar bo'yicha xatoliklar
 # a = 5 + "s"
 
@@ -33,5 +31,3 @@
 
 # name = "Umarxon"
 # print(ism)
-
-
